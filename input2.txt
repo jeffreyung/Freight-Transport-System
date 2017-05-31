@@ -1,0 +1,20 @@
+Unloading 200 Sydney
+Unloading 343 A
+Unloading 222 B
+Unloading 422 C
+Unloading 70 D
+Unloading 130 E
+Unloading 40 L
+Cost 12 Sydney E
+Cost 50 Sydney A
+Cost 300 E D
+Cost 30 A B
+Cost 16 B C
+Cost 17 B D
+Cost 90 E A
+Cost 10 L A
+Job E D
+Job Sydney E
+Job L A
+Job B D
+Job B C

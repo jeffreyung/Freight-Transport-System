@@ -1,0 +1,8 @@
+28 nodes expanded
+cost = 950
+Job Sydney to Asakusa
+Empty Asakusa to Sydney
+Job Sydney to Shibuya
+Empty Shibuya to Sydney
+Job Sydney to Shinjuku
+Job Shinjuku to Ginza

@@ -1,0 +1,12 @@
+25 nodes expanded
+cost = 1480
+Job Sydney to E
+Job E to D
+Empty D to B
+Job B to D
+Empty D to B
+Job B to C
+Empty C to B
+Empty B to A
+Empty A to L
+Job L to A
